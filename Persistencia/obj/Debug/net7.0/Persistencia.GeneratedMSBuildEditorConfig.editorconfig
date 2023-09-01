@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Aplicacion
-build_property.ProjectDir = /home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Aplicacion/
+build_property.RootNamespace = Persistencia
+build_property.ProjectDir = /home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Persistencia/
