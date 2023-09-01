@@ -1,6 +1,6 @@
 
 
-using System.Runtime.CompilerServices;
+using System;
 
 namespace Dominio.Entities
 {
