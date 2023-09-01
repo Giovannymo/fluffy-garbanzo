@@ -6,7 +6,6 @@ public class RegistroDevolucion : BaseEntity
     public Alquiler Alquiler { get; set; }
     public int IdEmpleadoFk { get; set; }
     public Empleado Empleado { get; set; }
-
     public DateOnly FechaDevolucion { get; set; }
     public decimal CombustibleDevuelto { get; set; }
     public int KilometrajeDevuelto { get; set; }
