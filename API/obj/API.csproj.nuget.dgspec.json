@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\API\\API.csproj": {}
+    "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/API/API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\API\\API.csproj": {
+    "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\API\\API.csproj",
+        "projectUniqueName": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/API/API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\gio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\API\\obj\\",
+        "projectPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/API/API.csproj",
+        "packagesPath": "/home/alexander/.nuget/packages/",
+        "outputPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/alexander/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -28,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Aplicacion\\Aplicacion.csproj": {
-                "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Aplicacion\\Aplicacion.csproj"
+              "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Aplicacion/Aplicacion.csproj"
               }
             }
           }
@@ -94,39 +93,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Aplicacion\\Aplicacion.csproj": {
+    "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Aplicacion/Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Aplicacion/Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\gio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Aplicacion\\obj\\",
+        "projectPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/home/alexander/.nuget/packages/",
+        "outputPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Aplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/alexander/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj"
+              "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Dominio/Dominio.csproj": {
+                "projectPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Dominio/Dominio.csproj"
               },
-              "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Persistencia\\Persistencia.csproj"
+              "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Persistencia/Persistencia.csproj": {
+                "projectPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Persistencia/Persistencia.csproj"
               }
             }
           }
@@ -156,28 +153,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj": {
+    "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Dominio/Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Dominio/Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\gio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\obj\\",
+        "projectPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Dominio/Dominio.csproj",
+        "packagesPath": "/home/alexander/.nuget/packages/",
+        "outputPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/alexander/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -225,36 +220,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Persistencia\\Persistencia.csproj": {
+    "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Persistencia/Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Persistencia/Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\gio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Persistencia\\obj\\",
+        "projectPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/alexander/.nuget/packages/",
+        "outputPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Persistencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/alexander/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj": {
-                "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj"
+              "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Dominio/Dominio.csproj": {
+                "projectPath": "/home/alexander/Data/Personal/Estudio/[1] En Curso/Campus Zona Franca/On_fire/Ejercicios de clase/2. post-filtro1/[1] Backend/ProjectsNetCore/Git/simulacro-git/fluffy-garbanzo/Dominio/Dominio.csproj"
               }
             }
           }
@@ -294,7 +287,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }
