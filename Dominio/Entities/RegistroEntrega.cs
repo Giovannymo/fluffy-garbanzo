@@ -1,8 +1,7 @@
 namespace Dominio.Entities;
 
-public class RegistroEntrega
+public class RegistroEntrega : BaseEntity
 {
-    public int Id { get; set; }
     public DateTime FechaEntrega { get; set; }
     public decimal CombustibleEntregado { get; set; }
     public int KilometrajeEntregado { get; set; }
