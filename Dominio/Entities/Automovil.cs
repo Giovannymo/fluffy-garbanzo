@@ -7,12 +7,12 @@ namespace Dominio.Entities
 {
     public class Automovil
     {
-        public int idAutomovil { get; set; }
-        public string marca { get; set; }
-        public string modelo { get; set; }
-        public int anio { get; set; }
-        public string tipo { get; set; }
-        public int capacidad { get; set; }
-        public decimal precioDiario { get; set; }
+        public int IdAutomovil { get; set; }
+        public string Marca { get; set; }
+        public string Modelo { get; set; }
+        public int Anio { get; set; }
+        public string Tipo { get; set; }
+        public int Capacidad { get; set; }
+        public decimal PrecioDiario { get; set; }
     }
 }
