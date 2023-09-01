@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj": {}
+    "c:\\Users\\mario\\OneDrive\\Escritorio\\GitHub Grupal\\fluffy-garbanzo\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj": {
+    "c:\\Users\\mario\\OneDrive\\Escritorio\\GitHub Grupal\\fluffy-garbanzo\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "c:\\Users\\mario\\OneDrive\\Escritorio\\GitHub Grupal\\fluffy-garbanzo\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\gio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\obj\\",
+        "projectPath": "c:\\Users\\mario\\OneDrive\\Escritorio\\GitHub Grupal\\fluffy-garbanzo\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\mario\\OneDrive\\Escritorio\\GitHub Grupal\\fluffy-garbanzo\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gio\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -68,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
