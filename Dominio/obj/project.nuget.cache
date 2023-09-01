@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2RBJL7H2i1pX30S+/jvJsDTU8WfPRWMURWT5M12yubpNMi0/59w9G/xzZWXetWPMQetQNlaITGiki7JqMsHibg==",
+  "dgSpecHash": "tDf6wmKlf0+vMVhErp4MO1HXpY/NwKtSTLM9MR9IkdmmcnZhQyr8YnL9uT7wb+PUU39TbucY53GgCkuQlI2Ryg==",
   "success": true,
   "projectFilePath": "c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
@@ -92,5 +92,12 @@
     "C:\\Users\\gio\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\gio\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché c:\\Users\\gio\\Documents\\PROGRAMACION\\Campus\\projectsNetCore\\fluffy-garbanzo\\Dominio\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
