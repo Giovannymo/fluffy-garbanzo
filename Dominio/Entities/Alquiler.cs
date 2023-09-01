@@ -4,9 +4,8 @@ using System;
 
 namespace Dominio.Entities
 {
-    public class Alquiler
+    public class Alquiler : BaseEntity
     {
-        public int IdAquiler { get; set; }
         public int IdClienteFK { get; set;}
         public int IdAutomovilFK {get; set;}
         public DateTime FechaInicio {get; set;}

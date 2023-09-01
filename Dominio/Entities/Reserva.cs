@@ -1,11 +1,11 @@
 using System;
+using Dominio.Entities;
 using Microsoft.VisualBasic;
 
 namespace Dominio.Entidades
 {
-    public class Reserva
+    public class Reserva: BaseEntity
     {
-        public int IdReserva {get; set;} 
         public int IdClienteFK {get; set;}
         public int IdAutomovilFK {get; set;}
         public DateTime FechaReserva {get; set;}
